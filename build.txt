@@ -1,0 +1,3 @@
+author = GuyBronson
+version = 0.1
+displayName = Sigil
